@@ -1,0 +1,5 @@
+variable "publicSubnetId" {
+}
+
+variable "dependency" {
+}
