@@ -1,7 +1,7 @@
 # terraformlab3
                                                            ScreenShots
                                                            
-Working in dev Name space                                                     
+Working in dev work space                                                     
 <img width="565" alt="Screenshot 2023-01-29 at 9 37 08 PM" src="https://user-images.githubusercontent.com/43528941/215357703-4124a999-9895-44a7-940f-61d615bc981a.png">
 
 Printing ips 
